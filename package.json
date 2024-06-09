@@ -1,0 +1,22 @@
+{
+    "name": "muhammad-bodla-simple-calculator",
+    "version": "1.0.1",
+    "description": "Simple Calculator",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+      "muhammad-bodla-simple-calculator": "index.js"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+"start":"node calculator.js",
+"build": "tsc"
+    },
+    "keywords": [],
+    "author": "mian Muhammad Bodla",
+    "license": "ISC",
+    "devDependencies": {
+      "@types/node": "^20.14.2"
+    }
+  }
+  
